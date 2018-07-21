@@ -1,0 +1,23 @@
+using System;
+
+public class Vegetal
+{
+    public Vegetal(String name) => Name = name;
+    public string Name {get;}
+    public override string ToString() => Name;
+}
+
+public class Program
+{
+    public enum Unit { item, pound, ounce, dozen };
+
+    public static void Main()
+    {
+        var item = new Vegetal("espinaca");
+        var date = DateTime.Now;
+        var price = 1.99m;
+        var unit = Unit.item;
+        Console.WriteLine($"En {date:yyyy}, el precio de {item} fue {price:F3} por {unit}.");
+        Console.WriteLine($" Qué hace ToString sobreescrito {item.ToString()}");
+    }
+}

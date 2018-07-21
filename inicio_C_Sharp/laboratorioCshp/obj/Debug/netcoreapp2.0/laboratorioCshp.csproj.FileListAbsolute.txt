@@ -1,0 +1,11 @@
+C:\Datos\Desarrollo\laboratorioCshp\bin\Debug\netcoreapp2.0\laboratorioCshp.deps.json
+C:\Datos\Desarrollo\laboratorioCshp\bin\Debug\netcoreapp2.0\laboratorioCshp.runtimeconfig.json
+C:\Datos\Desarrollo\laboratorioCshp\bin\Debug\netcoreapp2.0\laboratorioCshp.runtimeconfig.dev.json
+C:\Datos\Desarrollo\laboratorioCshp\bin\Debug\netcoreapp2.0\laboratorioCshp.dll
+C:\Datos\Desarrollo\laboratorioCshp\bin\Debug\netcoreapp2.0\laboratorioCshp.pdb
+C:\Datos\Desarrollo\laboratorioCshp\obj\Debug\netcoreapp2.0\laboratorioCshp.csprojAssemblyReference.cache
+C:\Datos\Desarrollo\laboratorioCshp\obj\Debug\netcoreapp2.0\laboratorioCshp.csproj.CoreCompileInputs.cache
+C:\Datos\Desarrollo\laboratorioCshp\obj\Debug\netcoreapp2.0\laboratorioCshp.AssemblyInfoInputs.cache
+C:\Datos\Desarrollo\laboratorioCshp\obj\Debug\netcoreapp2.0\laboratorioCshp.AssemblyInfo.cs
+C:\Datos\Desarrollo\laboratorioCshp\obj\Debug\netcoreapp2.0\laboratorioCshp.dll
+C:\Datos\Desarrollo\laboratorioCshp\obj\Debug\netcoreapp2.0\laboratorioCshp.pdb
